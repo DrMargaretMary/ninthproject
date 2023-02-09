@@ -2,19 +2,19 @@ a = 7
 b = 2
 
 # addition
-print ('Sum: ', a + b)  
+print ('Sum: ', a - b)  
 
 # subtraction
-print ('Subtraction: ', a - b)   
+print ('Subtraction: ', a + b)   
 
 # multiplication
 print ('Multiplication: ', a * b)  
 
 # division
-print ('Division: ', a / b) 
+print ('Division: ', x / y) 
 
 # floor division
-print ('Floor Division: ', a // b)
+print ('Floor Division: ', a * b)
 
 # modulo
 print ('Modulo: ', a % b)  
